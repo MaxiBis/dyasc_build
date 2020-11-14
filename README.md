@@ -1,5 +1,5 @@
 # [Codecov][1] Java Maven Example
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcodecov%2Fexample-java-maven.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcodecov%2Fexample-java-maven?ref=badge_shield)
+[![Build Status](https://travis-ci.org/MaxiBis/dyasc_build.svg?branch=master)](https://travis-ci.org/MaxiBis/dyasc_build)
 
 ## Guide
 ### Travis Setup
